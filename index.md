@@ -16,7 +16,7 @@ title: Home
   <div class="row">
     <div class="bg-light col border border-dark text-center text-dark overflow-hidden">
       <div class="mt-2 pt-2">
-        <h2 class="display-5"><a href="https://ctf.hacker101.com/" class="text-dark">Capture the Flag</a></h2>
+        <h2 class="display-5"><a href="https://ctf.hacker101.com/" class="text-dark">nooooooooooooooooooooooooooooooooooooooooooooo</a></h2>
         <p class="lead"><a href="https://ctf.hacker101.com/" class="text-dark" style="text-decoration: none">Put your skills into practice with CTF levels inspired by the real world</a></p>
       </div>
       <a href="https://ctf.hacker101.com/" class="pb-0 mb-0"><div class="mx-auto pb-0 mb-0 bg-dark" style="width: 300px; height: 200px; border-radius: 15px 15px 0 0; background-image: url(assets/images/ctf.png); background-size: contain;"></div></a>
